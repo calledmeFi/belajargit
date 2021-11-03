@@ -1,1 +1,2 @@
 Saya belajar ini untuk mengerti melihat source code di github
+Karena dengan bisa menggunakan github akan memudahkan menggunakan source code yang ada.
